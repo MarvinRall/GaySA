@@ -1,0 +1,139 @@
+
+
+
+Body   { 
+    
+}
+
+
+
+
+
+.div1  { background-image: url(Images/logo%20and%20slogan%206.png);
+         width: 1240px;
+         height: 1200px;
+         background-size: cover;
+        
+    
+}
+
+
+
+
+
+
+
+table  { width: 100%;
+        
+    
+}
+
+
+
+
+
+
+
+
+
+
+.gallery  {text-align: center;
+    
+    
+    
+}
+
+
+
+h1   {color: #991995;
+      font-weight: 600;
+      font-family: Aprlia bold;
+    
+    
+    
+}
+
+
+
+
+
+
+
+
+ul  {list-style-type: none;
+     overflow: hidden;
+    
+     top: 30px;
+     position: absolute;
+     width: 800px;
+     float: right;
+    
+   
+    
+    
+}
+
+
+
+button    {left: 60%;
+           right: 50%;
+           top: 60%; 
+           position: absolute;
+           padding-left: 40px;
+           padding-right: 40px;
+           padding-top: 15px;
+           padding-bottom: 15px;
+           background-color: #991995;
+           color: white;
+           font-weight: 600;
+           border-radius: 50%;
+           font-size: 20px;
+           border-color:  #991995;
+           font-family: Aprlia bold;
+}
+
+li  {float: left;
+     vertical-align: middle;
+    color: cyan;
+      float: right;
+    
+}
+
+
+
+
+li a  {display: block;
+       color: black;
+      font-size: 20px;
+       font-family: Aprlia bold;
+       text-align: center;
+       padding: 30px;
+       text-decoration: none;
+       font-weight: bolder;
+      
+}
+
+
+li a:hover   {color: deeppink;
+    
+    
+    
+}
+
+
+
+
+
+.bottom { top: 3200px;
+          position: absolute;
+          bottom: 20px;
+    
+    
+}
+
+
+
+
+
+
+
